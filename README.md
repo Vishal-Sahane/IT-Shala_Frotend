@@ -1,2 +1,2 @@
-# IT-Shala_Frotend
+# IT-Shala_Frontend
 A code repo for Frontend 
